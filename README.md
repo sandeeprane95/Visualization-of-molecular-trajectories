@@ -9,4 +9,6 @@ This path contains:
  - Python app which converts the Original dataset to a JSON file (Code is provided in the repo).
  - A "ReadMe" file containing instructions to use the app.
 
-The final website is deployed at: https://smaith2.people.uic.edu/vds_project
+The final website is deployed at: https://smaith2.people.uic.edu/vds_project  
+
+Youtube link: https://www.youtube.com/watch?v=7ZWMIdOnlG8&t=1s
